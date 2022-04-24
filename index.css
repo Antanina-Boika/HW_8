@@ -25,7 +25,7 @@
   padding: 70px;
 }
 
-header {
+.header {
   background-color: darkseagreen;
   padding: 10px;
 }
@@ -83,7 +83,7 @@ header {
   grid-row: 4/6;
 }
 
-.footer {g
+.footer {
   background-color: skyblue;
 }
 
